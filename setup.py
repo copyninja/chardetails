@@ -6,7 +6,7 @@ name = "chardetails"
 
 setup(
     name = name,
-    version = "0.2.1",
+    version = "0.3",
     url = "http://silpa.org.in/chardetails",
     license = "LGPL-3.0",
     description = "Unicode character details Library",
